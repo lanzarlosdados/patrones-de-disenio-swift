@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  SwiftUIView.swift
 //  PatronesDeDisenio
 //
 //  Created by fabian zarate on 26/12/2025.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct FactoryMethodUIView: View {
     var body: some View {
         VStack {
             Button("Pay Google") {
@@ -26,5 +26,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    FactoryMethodUIView()
 }
