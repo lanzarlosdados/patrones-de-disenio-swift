@@ -27,3 +27,9 @@ Pods/
 .swiftpm
 .build/
 /*.xcodeproj
+
+# Workspace
+*.xcworkspace
+
+# Workspace
+*.xcworkspace
